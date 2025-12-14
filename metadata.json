@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of MDU SC/ST EWA",
+  "description": "Association management app for MDU SC/ST EWA to track members, subscriptions, expenses, and manage communications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
